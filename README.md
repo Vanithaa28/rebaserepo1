@@ -12,3 +12,5 @@ git remote -v
 git remote push origin url
 git remote set url origin <token@url>
 git push master
+5
+https://github.com/manjunathericku/myusn/blob/main/rebase.txt
